@@ -1,0 +1,36 @@
+# Superstore Profitability Insights
+
+## 1. Discount Impact
+- Orders discounted above 20% generate negative profit overall.
+- Low and moderate discounts maintain strong margins.
+
+**Action:** Introduce discount approval thresholds and limit high-discount campaigns.
+
+---
+
+## 2. Category Performance
+- Technology and Office Supplies are consistently profitable.
+- Furniture shows extremely low margins and several loss-making sub-categories.
+
+**Action:** Reprice Furniture products and evaluate SKU-level performance.
+
+---
+
+## 3. Sub-Category Loss Drivers
+Top loss contributors:
+- Tables
+- Bookcases
+- Supplies
+
+**Action:** Reduce discounting, renegotiate supplier costs, or discontinue underperformers.
+
+---
+
+## 4. Geographic Analysis
+Losses are concentrated in a small number of states:
+- Texas
+- Ohio
+- Pennsylvania
+- Illinois
+
+**Action:** Review regional discounting behavior and product mix.
